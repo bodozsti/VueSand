@@ -1,2 +1,0 @@
-# VueSand
-Created with CodeSandbox
